@@ -10,8 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majid-nex&layout=compact&theme=radical)](https://github.com/majid-nex)
 
-[![telegram badge](https://img.shields.io/badge/@Mr_godfather9-30302f?style=for-the-badge&logo=telegram)](https://t.me/MR_Godfather9)
-[![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mailto:majid3151w@gmail.com)
+[![telegram badge](https://img.shields.io/badge/Majid-30302f?style=for-the-badge&logo=telegram)](https://t.me/MR_Godfather9)
+[![mailid badge](https://img.shields.io/badge/Majid-30302f?style=for-the-badge&logo=gmail)](mailto:majid3151w@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=majid-nex&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoymajid" /> </p>
 
 ### Languages and Tools I Love❤️
