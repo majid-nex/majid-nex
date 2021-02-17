@@ -11,4 +11,4 @@
 
 **Contact Me:**
 ![Telegram Badge](https://img.shields.io/badge/-MAJID-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/mr_godfather9)
-![Gmail Badge](https://img.shields.io/badge/-majid3151w@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=majid3151w@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-majid3151w@gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=majid3151w@gmail)
