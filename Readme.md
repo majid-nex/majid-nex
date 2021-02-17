@@ -1,7 +1,13 @@
 # Hi there niche mera stats hai dekhlo(;
 
- 😄I'm Still Learning Git & GitHub
-- 🥰Python Lover
+```python DEV
+Name = "MAJID"
+who_i_am = ['Coding = ❣️']
+Age = "15"
+Country = "🇮🇳"
+
+ 😄I AM JUST LEARNING PROGRAMMING
+- Python DEV
 - ⚜️Most Of My Repositories Are For Telegram
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
