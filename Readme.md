@@ -1,8 +1,8 @@
-# Hi there niche mera stats hai dekhlo(;
+# Hi there niche mera baare mai hai dekhlo(;
 
 ```python DEV
 Name = "MAJID"
-who_i_am = ['Coding = ❣️']
+'Programmer'
 Age = "15"
 Country = "🇮🇳"
 ```
