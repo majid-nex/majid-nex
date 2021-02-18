@@ -10,7 +10,7 @@ Country = "🇮🇳"
 
  😄I AM JUST LEARNING PROGRAMMING
 - Python DEV
-- ⚜️Most Of My Repositories Are For Telegram
+- ⚜️Most Of My Repositories Are For CODEX or Telegram
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
